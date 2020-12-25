@@ -22,3 +22,4 @@ To run this project, install it locally using pip:
 * [pip install SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 * [pip install pyttsx3](https://pypi.org/project/pyttsx3/)
 * [pip install gtts](https://pypi.org/project/gTTS/)
+* you required a text file that contain question answer you can download it from google
